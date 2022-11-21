@@ -1,3 +1,11 @@
+This is a client/server machine where many clients can connect to a server and guess a number. Once the number is guessed by someone, the game interrupts for everyone.
+
+
+
+
+
+
+
 ## Getting Started
 
 Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
