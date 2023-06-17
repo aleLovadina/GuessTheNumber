@@ -30,7 +30,7 @@ public class ServerThread extends Thread {
 					out.writeBytes("Number of tries: "+i+"; the winner is "+Server.nameWin+"! Congratulations"+'\n');
 				}else {
 					if(number>Server.n && Server.at==false) {
-						out.writeBytes("Too big"+'\n');
+						out.writeBytes("Too large"+'\n');
 						i++;
 					}else {
 						if(number<Server.n && Server.at==false) {
